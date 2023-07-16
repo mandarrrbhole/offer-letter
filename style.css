@@ -1,0 +1,55 @@
+.container{
+    border: 20px;
+    border-style:;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    padding-top: 20px;
+    padding-left: 30%;
+}
+strong{
+    color:rgb(27, 130, 215);
+    font-size: xx-large;
+}
+.logo1{
+    float: right;
+    margin-top:0px ;
+    padding-right: 40%;
+}
+.logo1 img{
+    width: 100px;
+    height: 100px;
+} 
+.logo1  h3{
+    text-decoration:underline;
+    padding-top: 33px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+h1{
+    padding-top: 50px;
+    padding-left: 30%;
+    color:rgb(27, 130, 215);
+    text-decoration:underline;
+}
+.para2{
+    padding-left: 30%;
+    padding-right: 42%;
+}
+.intro{
+    padding-left: 30%;
+    padding-top: 40px;
+}
+
+.foot2 img{
+    float: right;
+    padding-right: 40%;
+    width: 70px;
+    height: 70px;
+}
+.foot2 p{
+    float: left;
+    padding-left: 30%;
+    color:rgb(27, 130, 215);
+}
